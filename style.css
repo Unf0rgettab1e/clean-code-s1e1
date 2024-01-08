@@ -21,7 +21,7 @@ body {
 }
 
 @media (max-width: 768px) {
-  .priority-matrix { 
+  .priority-matrix {
     text-align: center;
   }
 }
@@ -52,7 +52,7 @@ h2 {
 }
 
 input,
-button{
+button {
   outline: none;
 }
 
